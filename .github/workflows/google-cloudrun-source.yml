@@ -52,7 +52,7 @@ on:
 
 env:
   PROJECT_ID: cbac-306316 # TODO: update Google Cloud project id
-  SERVICE: cbac_v2 # TODO: update Cloud Run service name
+  SERVICE: cbac-v2 # TODO: update Cloud Run service name
   REGION: us-central1 # TODO: update Cloud Run service region
 
 jobs:
